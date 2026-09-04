@@ -1,11 +1,13 @@
 about:
-  description: Build AI assistants that interact with your systems
+  description:
+  |
+    Build AI assistants that interact with your systems
   license: Apache-2.0
   homepage: https://gptscript.ai
   head: b374bab
   archived: true
   latestVersion: v0.9.9
-  collectedAt: 2026-09-04T04:38:43Z
+  collectedAt: 2026-09-04T19:36:48Z
 timeline:
   created: 2024-01-29
   lastCommit: 2026-05-22
@@ -16,16 +18,24 @@ popularity:
   fork: 298
   release: 59
   contributor: 30
-  pullRequest: 57
+  pullRequest: 698
   issue: 259
 language:
   Go: 683978
   Shell: 7268
   Makefile: 1615
-totalLine: 692861
+totalBytes: 692861
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 13
+  last720d:
+    since: 2024-09-14
+    release: 5
+    mergedPR: 129
+    openPR: 4
+    closedIssue: 7
+    openIssue: 12
+    commit: 144
+total:
+  release: 59
+  mergedPR: 641
+  openPR: 10
+  closedIssue: 184
+  openIssue: 75
+  commit: 1123
+---
+---
+
