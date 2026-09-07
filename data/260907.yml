@@ -5,7 +5,7 @@ about:
   head: b374bab
   archived: true
   latestVersion: "v0.9.9"
-  collectedAt: 2026-09-07T04:41:00Z
+  collectedAt: 2026-09-07T19:41:11Z
 timeline:
   created: 2024-01-29
   lastCommit: 2026-05-22
@@ -55,7 +55,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 5
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 4
@@ -63,7 +63,7 @@ recent:
     openPR: 2
     closedIssue: 0
     openIssue: 0
-    commit: 13
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 5
@@ -81,7 +81,7 @@ total:
   commit: 1123
 ---
 path: /home/runner/.x-repo/github.com/gptscript-ai/gptscript
-collectedAt: 2026-09-07T04:41:01Z
+collectedAt: 2026-09-07T19:41:13Z
 loc:
   Go:
     code: 20035
@@ -162,7 +162,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:41:02+00:00
+  collectedAt: 2026-09-07T19:41:14+00:00
   platform:
     darwin/arm64:
       name:  gptscript-v0.9.9-macOS-universal.tar.gz
