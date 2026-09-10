@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 16734163,
       "digest": "sha256:efb0664ed3f14a6a4c87d8cdcf1f14172db080b9cfd16ce6d578a95c01565363",
-      "download_count": 2550,
+      "download_count": 2551,
       "created_at": "2026-04-10T14:39:03Z",
       "updated_at": "2026-04-10T14:39:04Z",
       "browser_download_url": "https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-linux-amd64.tar.gz"
