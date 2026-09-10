@@ -25,7 +25,17 @@ x install gptscript
 - **Latest**: `v0.9.9` (2026-04-10)
 - **Last commit**: 2026-05-22
 - **Assets in release**: 6
-- **Published**: 2026-04-10T14:34:44Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/checksums.txt) | 512 B | `other` |
+| [gptscript-v0.9.9-linux-amd64.tar.gz](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-linux-amd64.tar.gz) | 16.0 MiB | `native/linux/x64` |
+| [gptscript-v0.9.9-linux-arm64.tar.gz](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-linux-arm64.tar.gz) | 14.8 MiB | `native/linux/arm64` |
+| [gptscript-v0.9.9-macOS-universal.tar.gz](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-macOS-universal.tar.gz) | 31.4 MiB | `native/darwin/x64` |
+| [gptscript-v0.9.9-windows-amd64.zip](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-windows-amd64.zip) | 16.3 MiB | `native/win/x64` |
+| [gptscript-v0.9.9-windows-arm64.zip](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-windows-arm64.zip) | 14.9 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -60,8 +70,8 @@ Total: **25,040** lines of code across **188** files in the top 5 languages.
 Install metadata for gptscript lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gptscript` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gptscript.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gptscript.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:44:25Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:37:45Z._

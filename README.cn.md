@@ -6,7 +6,7 @@
 
 Build AI assistants that interact with your systems
 
-![gptscript](https://repo.x-cmd.io/gptscript.svg)
+![gptscript](https://repo.x-cmd.io/gptscript.svg?lang=zh)
 
 ## 安装
 
@@ -25,7 +25,17 @@ x install gptscript
 - **最新版本**: `v0.9.9` (2026-04-10)
 - **最近提交**: 2026-05-22
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-04-10T14:34:44Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/checksums.txt) | 512 B | `other` |
+| [gptscript-v0.9.9-linux-amd64.tar.gz](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-linux-amd64.tar.gz) | 16.0 MiB | `native/linux/x64` |
+| [gptscript-v0.9.9-linux-arm64.tar.gz](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-linux-arm64.tar.gz) | 14.8 MiB | `native/linux/arm64` |
+| [gptscript-v0.9.9-macOS-universal.tar.gz](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-macOS-universal.tar.gz) | 31.4 MiB | `native/darwin/x64` |
+| [gptscript-v0.9.9-windows-amd64.zip](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-windows-amd64.zip) | 16.3 MiB | `native/win/x64` |
+| [gptscript-v0.9.9-windows-arm64.zip](https://github.com/gptscript-ai/gptscript/releases/download/v0.9.9/gptscript-v0.9.9-windows-arm64.zip) | 14.9 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -64,4 +74,4 @@ gptscript 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:44:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:37:46Z._
