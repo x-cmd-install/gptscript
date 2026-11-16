@@ -40,7 +40,7 @@ Total: **25,040** lines of code across **188** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,276 · **Forks**: 295 · **Open issues**: 259 · **Contributors**: 30
+- **Stars**: 3,277 · **Forks**: 295 · **Open issues**: 259 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -50,12 +50,12 @@ Total: **25,040** lines of code across **188** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-19 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 360d | 2025-11-20 | 2 | 8 | 2 | 0 | 0 | 9 |
-| last720d | 2024-11-25 | 4 | 75 | 4 | 3 | 9 | 81 |
+| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-20 | 0 | 1 | 1 | 0 | 0 | 0 |
+| 360d | 2025-11-21 | 2 | 8 | 2 | 0 | 0 | 9 |
+| last720d | 2024-11-26 | 4 | 75 | 4 | 3 | 8 | 81 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for gptscript lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:21:45Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:20:34Z._
